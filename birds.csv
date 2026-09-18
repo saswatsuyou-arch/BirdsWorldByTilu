@@ -1,0 +1,51 @@
+id,scientific_name,common_name,image,sound
+1,Acridotheres fuscus,Jungle Myna,images/001.jpg,sounds/001.wav
+2,Acrocephalus bistrigiceps,Black-browed Reed Warbler,images/002.jpg,sounds/002.wav
+3,Aethopyga gouldiae,Fire-tailed Sunbird,images/003.jpg,sounds/003.wav
+4,Alcippe cinerea,Grey-cheeked Warbler,images/004.jpg,sounds/004.wav
+5,Arachnothera magna,Little Spiderhunter,images/005.jpg,sounds/005.wav
+6,Arborophila torqueola,Hill Partridge,images/006.jpg,sounds/006.wav
+7,Argya longirostris,Large-billed Crow,images/007.jpg,sounds/007.wav
+8,Centropus andamanensis,Andaman Coucal,images/008.jpg,sounds/008.wav
+9,Chelidorhynx hypoxanthus,Yellow-bellied Fairy Fantail,images/009.jpg,sounds/009.wav
+10,Chloropsis,Leafbird,images/010.jpg,sounds/010.wav
+11,Chloropsis cochinchinensis,Blue-winged Leafbird,images/011.jpg,sounds/011.wav
+12,Chloropsis jerdoni,Jerdon's Leafbird,images/012.jpg,sounds/012.wav
+13,Chrysococcyx maculatus,Asian Emerald Cuckoo,images/013.jpg,sounds/013.wav
+14,Cuculus micropterus,Indian Cuckoo,images/014.jpg,sounds/014.wav
+15,Cyornis concretus,Large Blue Flycatcher,images/015.jpg,sounds/015.wav
+16,Cyornis magnirostris,Large-billed Blue Flycatcher,images/016.jpg,sounds/016.wav
+17,Cyornis poliogenys,Pale-chinned Blue Flycatcher,images/017.jpg,sounds/017.wav
+18,Cyornis unicolor,Pale Blue Flycatcher,images/018.jpg,sounds/018.wav
+19,Cypsiurus balasiensis,Asian Palm Swift,images/019.jpg,sounds/019.wav
+20,Dicaeum chrysorrheum,Yellow-cheeked Flowerpecker,images/020.jpg,sounds/020.wav
+21,Dicaeum cruentatum,Scarlet-backed Flowerpecker,images/021.jpg,sounds/021.wav
+22,Dicaeum minullum,Plain Flowerpecker,images/022.jpg,sounds/022.wav
+23,Dicrurus andamanensis,Andaman Drongo,images/023.jpg,sounds/023.wav
+24,Eurystomus orientalis,Oriental Dollarbird,images/024.jpg,sounds/024.wav
+25,Glaucidium cuculoides,Asian Barred Owlet,images/025.jpg,sounds/025.wav
+26,Halcyon coromanda,White-throated Kingfisher,images/026.jpg,sounds/026.wav
+27,Iole cacharensis,Cachar Bulbul,images/027.jpg,sounds/027.wav
+28,Ixobrychus cinnamomeus,Cinnamon Bittern,images/028.jpg,sounds/028.wav
+29,Lanius tephronotus,Long-tailed Shrike,images/029.jpg,sounds/029.wav
+30,Liocichla phoenicea,Red-faced Liocichla,images/030.jpg,sounds/030.wav
+31,Locustella davidi,Davison's Bush Warbler,images/031.jpg,sounds/031.wav
+32,Loriculus vernalis,Vernal Hanging Parrot,images/032.jpg,sounds/032.wav
+33,Macronus gularis,Striped Tit-Babbler,images/033.jpg,sounds/033.wav
+34,Motacilla citreola,Citrine Wagtail,images/034.jpg,sounds/034.wav
+35,Paradoxornis guttaticollis,Spot-breasted Parrotbill,images/035.jpg,sounds/035.wav
+36,Pellorneum ruficeps,Puff-throated Babbler,images/036.jpg,sounds/036.wav
+37,Phylloscopus forresti,Chinese Leaf Warbler,images/037.jpg,sounds/037.wav
+38,Phylloscopus inornatus,Yellow-browed Warbler,images/038.jpg,sounds/038.wav
+39,Phylloscopus subaffinis,Ashy-throated Warbler,images/039.jpg,sounds/039.wav
+40,Pluvialis squatarola,Black-bellied Plover,images/040.jpg,sounds/040.wav
+41,Pnoepyga pusilla,Pygmy Wren-Babbler,images/041.jpg,sounds/041.wav
+42,Polyplectron bicalcaratum,Grey Peacock-Pheasant,images/042.jpg,sounds/042.wav
+43,Pomatorhinus ruficollis,Rusty-fronted Barwing,images/043.jpg,sounds/043.wav
+44,Psilopogon lineatus,Lineated Barbet,images/044.jpg,sounds/044.wav
+45,Psittacula eupatria,Alexandrine Parakeet,images/045.jpg,sounds/045.wav
+46,Rimator malacoptilus,Long-billed Wren-Babbler,images/046.jpg,sounds/046.wav
+47,Riparia chinensis,Plain Martin,images/047.jpg,sounds/047.wav
+48,Spelaeornis oatesi,Blyth's Wren-Babbler,images/048.jpg,sounds/048.wav
+49,Sphenocichla humei,Spot-throated Babbler,images/049.jpg,sounds/049.wav
+50,Stachyridopsis ambigua,Grey-throated Babbler,images/050.jpg,sounds/050.wav
